@@ -62,6 +62,21 @@
     "director": ["Richard Donner"],
     "stars": ["Mel Gibson", "Danny Glover", "Joe Pesci"]
 }, {
+    "title": "The Ghost Writer",
+    "genre": ["crime", "drama", "mystery"],
+    "year": 2010,
+    "rating": 7.2,
+    "director": ["Roman Polański"],
+    "stars": ["Ewan McGregor", "Pierce Brosnan", "Olivia Williams"]
+}, {
+    "title": "The Ghost Writer 2",
+    "genre": ["crime", "drama", "mystery"],
+    "year": 2010,
+    "rating": 7.2,
+    "director": ["Roman Polański"],
+    "stars": ["Ewan McGregor", "Pierce Brosnan", "Olivia Williams"]
+},
+    {
     "title": "Lost in Translation",
     "genre": ["comedy", "drama"],
     "year": 2003,
